@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Stream1",
+      "description": "This is Stream1",
+      "id": 1
+    },
+    {
+      "title": "Stream2",
+      "description": "This is Stream2",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "edited",
+      "id": 3
+    },
+    {
+      "title": "programmatic Navigation",
+      "description": "this edit is made by patch instead of put",
+      "userId": "103612213415144247958",
+      "id": 4
+    }
+  ]
+}
